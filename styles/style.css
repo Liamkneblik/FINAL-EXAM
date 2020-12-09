@@ -9,7 +9,7 @@ body{
 .displayed-img{
     display: block;
     width: 80vw;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 #thumb-bar{
     display: flex;
